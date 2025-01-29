@@ -7,7 +7,7 @@ Large language models (LLMs) have been positioned to revolutionize HCI, by resha
 
 ## 🌐 Paper Collections
 
-Our analysis will evolve over time as we continue to collect and analyze papers at CHI and more publication venues. If we miss your papers, please feel free to submit a pull request, open an issue, or ✉️ [email](mailto:ypang2@cs.washington.edu) us! We'd love to include your work and together we can make this collection more comprehensive. 
+Our analysis will evolve as we collect and analyze papers at CHI and more publication venues. If we miss your papers, please feel free to submit a pull request, open an issue, or ✉️ [email](mailto:ypang2@cs.washington.edu) us! We'd love to include your work and together we can make this collection more comprehensive. 
 
 | Title                          | Year |
 |--------------------------------|------|
@@ -182,4 +182,4 @@ If you find this useful in your research, please consider citing this paper:
 
 ### Contact
 
-[Rock Yuren Pang](https://homes.cs.washington.edu/~ypang2/) \<ypang2@cs.washington.edu>
+I'm looking forward to understanding this line of work beyond CHI. If you are interested in chatting or collaborating, please don't hesitate to contact: [Rock Yuren Pang](https://homes.cs.washington.edu/~ypang2/) \<ypang2@cs.washington.edu>
