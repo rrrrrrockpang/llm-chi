@@ -1,0 +1,154 @@
+Title,Hallucinations,LLM bias toward different groups,Limits of LLM data coverage,Non-deterministic response,Other technical bugs,Unspecified errors/bias,External Validity across Context,External Validity across Model,External Validity across Prompt,External Validity across User,Internal Validity across Context,Internal Validity across Model,Internal Validity across Prompt,Internal Validity across User,Computational cost,Financial cost,Lack of evaluation standards/metrics,Others (Resource Limitation),Environmental cost,Hate speech,Malicious Use,Misinformation,Economic harms,Privacy,representational harms
+RELIC: Investigating Large Language Model Responses using Self-Consistency.,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,1,1,0,0,0,0,1,0,0,0
+Generating Automatic Feedback on UI Mockups with Large Language Models.,0,0,0,0,0,0,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Studying the Effects of Cognitive Biases in Evaluation of Conversational Agents.,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+MindShift: Leveraging Large Language Models for Mental-States-Based Problematic Smartphone Use Intervention.,0,0,0,1,0,0,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Memoro: Using Large Language Models to Realize a Concise Interface for Real-Time Memory Augmentation.,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+Unraveling the Dilemma of AI Errors: Exploring the Effectiveness of Human and Machine Explanations for Large Language Models.,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"""It's the only thing I can trust"": Envisioning Large Language Model Use by Autistic Workers for Communication Assistance.",0,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+HILL: A Hallucination Identifier for Large Language Models.,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+A Canary in the AI Coal Mine: American Jews May Be Disproportionately Harmed by Intellectual Property Dispossession in Large Language Model Training.,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+Designing Scaffolding Strategies for Conversational Agents in Dialog Task of Neurocognitive Disorders Screening.,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SimUser: Generating Usability Feedback by Simulating Various Users Interacting with Mobile Applications.,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Natural Language Dataset Generation Framework for Visualizations Powered by Large Language Models.,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Stylette: Styling the Web with Natural Language.,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Evaluating Large Language Models in Generating Synthetic HCI Research Data: a Case Study.,0,0,0,0,0,0,1,0,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Jigsaw: Supporting Designers to Prototype Multimodal Applications by Chaining AI Foundation Models.,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CodeAid: Evaluating a Classroom Deployment of an LLM-based Programming Assistant that Balances Student and Educator Needs.,0,0,0,0,0,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+How Do Analysts Understand and Verify AI-Assisted Data Analyses?.,0,0,0,1,0,0,1,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+From Paper to Card: Transforming Design Implications with Generative AI.,0,1,0,0,0,0,1,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Is Stack Overflow Obsolete? An Empirical Study of the Characteristics of ChatGPT Answers to Stack Overflow Questions.,0,0,0,1,0,1,1,1,1,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0
+Pretty Princess vs. Successful Leader: Gender Roles in Greeting Card Messages.,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Facilitating Self-Guided Mental Health Interventions Through Human-Language Model Interaction: A Case Study of Cognitive Restructuring.,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Comparing Sentence-Level Suggestions to Message-Level Suggestions in AI-Mediated Communication.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+VirtuWander: Enhancing Multi-modal Interaction for Virtual Tour Guidance through Large Language Models.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Unlock Life with a Chat(GPT): Integrating Conversational AI with Large Language Models into Everyday Lives of Autistic Individuals.,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Enhancing UX Evaluation Through Collaboration with Conversational AI Assistants: Effects of Proactive Dialogue and Timing.,0,0,0,0,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+ABScribe: Rapid Exploration & Organization of Multiple Writing Variations in Human-AI Co-Writing Tasks using Large Language Models.,1,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Know Your Audience: The benefits and pitfalls of generating plain language summaries beyond the ""general"" audience.",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Will AI Console Me when I Lose my Pet? Understanding Perceptions of AI-Mediated Email Writing.,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Farsight: Fostering Responsible AI Awareness During AI Application Prototyping.,0,0,0,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Evaluating the Experience of LGBTQ+ People Using Large Language Model Based Chatbots for Mental Health Support.,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+Synthetic Lies: Understanding AI-Generated Misinformation and Evaluating Algorithmic and Human Solutions.,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ContextCam: Bridging Context Awareness with Creative Human-AI Image Co-Creation.,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Luminate: Structured Generation and Exploration of Design Space with Large Language Models for Human-AI Co-Creation.,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Deus Ex Machina and Personas from Large Language Models: Investigating the Composition of AI-Generated Persona Descriptions.,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+ReactGenie: A Development Framework for Complex Multimodal Interactions Using Large Language Models.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"See Widely, Think Wisely: Toward Designing a Generative Multi-agent System to Burst Filter Bubbles.",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ivie: Lightweight Anchored Explanations of Just-Generated Code.,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Empowering Calibrated (Dis-)Trust in Conversational Agents: A User Study on the Persuasive Power of Limitation Disclaimers vs. Authoritative Style.,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Designing Accessible Obfuscation Support for Blind Individuals' Visual Privacy Management.,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Mathemyths: Leveraging Large Language Models to Teach Mathematical Language through Child-AI Co-Creative Storytelling.,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+How AI Processing Delays Foster Creativity: Exploring Research Question Co-Creation with an LLM-based Agent.,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+OmniActions: Predicting Digital Actions in Response to Real-World Multimodal Sensory Inputs with LLMs.,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Testing, Socializing, Exploring: Characterizing Middle Schoolers' Approaches to and Conceptions of ChatGPT.",0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TapType: Ten-finger text entry on everyday surfaces via Bayesian inference.,0,0,1,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+DiaryMate: Understanding User Perceptions and Experience in Human-AI Collaboration for Personal Journaling.,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+Under the (neighbor)hood: Hyperlocal Surveillance on Nextdoor.,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Social Dynamics of AI Support in Creative Writing.,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+TypeAnywhere: A QWERTY-Based Text Entry Solution for Ubiquitous Computing.,0,0,0,0,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Designerly Understanding: Information Needs for Model Transparency to Support Design Ideation for AI-Powered User Experience.,0,0,0,0,0,0,0,1,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+AXNav: Replaying Accessibility Tests from Natural Language.,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+Discovering the Syntax and Strategies of Natural Language Programming with Generative Language Models.,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Human-LLM Collaborative Annotation Through Effective Verification of LLM Labels.,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+"Reducing the Search Space on demand helps Older Adults find Mobile UI Features quickly, on par with Younger Adults.",0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"An Empathy-Based Sandbox Approach to Bridge the Privacy Gap among Attitudes, Goals, Knowledge, and Behaviors.",0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rehearsal: Simulating Conflict to Teach Conflict Resolution.,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+Why Johnny Can't Prompt: How Non-AI Experts Try (and Fail) to Design LLM Prompts.,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Co-Writing with Opinionated Language Models Affects Users' Views.,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C2Ideas: Supporting Creative Interior Color Design Ideation with a Large Language Model.,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Think Fast, Think Slow, Think Critical: Designing an Automated Propaganda Detection Tool.",0,0,0,0,0,0,1,1,0,0,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0
+The Impact of Multiple Parallel Phrase Suggestions on Email Input and Composition Behaviour of Native and Non-Native English Writers.,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Debate Chatbots to Facilitate Critical Thinking on YouTube: Social Identity and Conversational Style Make A Difference.,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Understanding the Impact of Long-Term Memory on Self-Disclosure with Large Language Model-Driven Chatbots for Public Health Intervention.,0,0,0,1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Evaluating Large Language Models on Academic Literature Understanding and Review: An Empirical Study among Early-stage Scholars.,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Scientific and Fantastical: Creating Immersive, Culturally Relevant Learning Experiences with Augmented Reality and Large Language Models.",0,0,0,0,1,0,1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+Marco: Supporting Business Document Workflows via Collection-Centric Information Foraging with Large Language Models.,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mirror Ritual: An Affective Interface for Emotional Self-Reflection.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Leveraging Prompt-Based Large Language Models: Predicting Pandemic Health Decisions and Outcomes Through Social Media Language.,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ClassMeta: Designing Interactive Virtual Classmate to Promote VR Classroom Participation.,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+"""As an AI language model, I cannot"": Investigating LLM Denials of User Requests.",0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+"Teachers, Parents, and Students' perspectives on Integrating Generative AI into Elementary Literacy Education.",0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Visual Captions: Augmenting Verbal Communication with On-the-fly Visuals.,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+The HaLLMark Effect: Supporting Provenance and Transparent Use of Large Language Models in Writing with Interactive Visualization.,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Concept Induction: Analyzing Unstructured Text with High-Level Concepts Using LLooM.,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"CloChat: Understanding How People Customize, Interact, and Experience Personas in Large Language Models.",0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Understanding the Role of Large Language Models in Personalizing and Scaffolding Strategies to Combat Academic Procrastination.,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Enabling Conversational Interaction with Mobile UI using Large Language Models.,1,0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+"The Role of Inclusion, Control, and Ownership in Workplace AI-Mediated Communication.",0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ChatScratch: An AI-Augmented System Toward Autonomous Visual Programming Learning for Children Aged 6-12.,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Co-Designing QuickPic: Automated Topic-Specific Communication Boards from Photographs for AAC-Based Language Instruction.,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+MindTalker: Navigating the Complexities of AI-Enhanced Social Engagement for People with Early-Stage Dementia.,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,1,0,0
+A Piece of Theatre: Investigating How Teachers Design LLM Chatbots to Assist Adolescent Cyberbullying Education.,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+MindfulDiary: Harnessing Large Language Model to Support Psychiatric Patients' Journaling.,1,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0
+Integrating Expertise in LLMs: Crafting a Customized Nutrition Assistant with Refined Template Instructions.,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Art or Artifice? Large Language Models and the False Promise of Creativity.,0,0,0,1,0,0,1,1,1,0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0
+"""What It Wants Me To Say"": Bridging the Abstraction Gap Between End-User Programmers and Code-Generating Large Language Models.",0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Supporting Sensemaking of Large Language Model Outputs at Scale.,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Personalized Quest and Dialogue Generation in Role-Playing Games: A Knowledge Graph- and Language Model-based Approach.,0,1,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PlantoGraphy: Incorporating Iterative Design Process into Generative Artificial Intelligence for Landscape Rendering.,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eternagram: Probing Player Attitudes Towards Climate Change Using a ChatGPT-driven Text-based Adventure.,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+The Illusion of Empathy? Notes on Displays of Emotion in Human-Computer Interaction.,0,0,1,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Open Sesame? Open Salami! Personalizing Vocabulary Assessment-Intervention for Children via Pervasive Profiling and Bespoke Storybook Generation.,0,0,1,1,1,1,1,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0
+Bridging the Gulf of Envisioning: Cognitive Challenges in Prompt Based Interactions with LLMs.,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Silver-Tongued and Sundry: Exploring Intersectional Pronouns with ChatGPT.,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+TaleBrush: Sketching Stories with Generative Pretrained Language Models.,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Learning Agent-based Modeling with LLM Companions: Experiences of Novices and Experts Using ChatGPT & NetLogo Chat.,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+PopBlends: Strategies for Conceptual Blending with Large Language Models.,1,0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DirectGPT: A Direct Manipulation Interface to Interact with Large Language Models.,0,0,0,0,0,0,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Human-Algorithmic Interaction Using a Large Language Model-Augmented Artificial Intelligence Clinical Decision Support System.,0,0,0,0,0,1,0,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+A Mixed-Methods Approach to Understanding User Trust after Voice Assistant Failures.,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Automatic Macro Mining from Interaction Traces at Scale.,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"The Value, Benefits, and Concerns of Generative AI-Powered Assistance in Writing.",0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0
+Choice Over Control: How Users Write with Large Language Models using Diegetic and Non-Diegetic Prompting.,0,0,1,0,0,1,1,1,1,0,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0
+Towards Designing a Question-Answering Chatbot for Online News: Understanding Questions and Perspectives.,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+ChainForge: A Visual Toolkit for Prompt Engineering and LLM Hypothesis Testing.,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+MUD: Towards a Large-Scale and Noise-Filtered UI Dataset for Modern Style UI Modeling.,0,0,0,0,1,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+VIVID: Human-AI Collaborative Authoring of Vicarious Dialogues from Lecture Videos.,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+PaperWeaver: Enriching Topical Paper Alerts by Contextualizing Recommended Papers with User-collected Papers.,1,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+CoAuthor: Designing a Human-AI Collaborative Writing Dataset for Exploring Language Model Capabilities.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AI Chains: Transparent and Controllable Human-AI Interaction by Chaining Large Language Model Prompts.,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+Directed Diversity: Leveraging Language Embedding Distances for Collective Creativity in Crowd Ideation.,0,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"""If the Machine Is As Good As Me, Then What Use Am I?"" - How the Use of ChatGPT Changes Young Professionals' Perception of Productivity and Accomplishment.",0,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0
+"CollabCoder: A Lower-barrier, Rigorous Workflow for Inductive Collaborative Qualitative Analysis with Large Language Models.",0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"""The less I type, the better"": How AI Language Models can Enhance or Impede Communication for AAC Users.",0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Do You Mind? User Perceptions of Machine Consciousness.,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Shaping Human-AI Collaboration: Varied Scaffolding Levels in Co-writing with Language Models.,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Moral Framing of Mental Health Discourse and Its Relationship to Stigma: A Comparison of Social Media and News.,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+PANDALens: Towards AI-Assisted In-Context Writing on OHMD During Travels.,0,0,0,0,1,1,0,1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+LLMR: Real-time Prompting of Interactive Worlds using Large Language Models.,0,0,0,0,1,0,1,1,1,0,0,0,0,0,1,0,1,1,0,1,0,0,1,0,0
+Surgment: Segmentation-enabled Semantic Search and Creation of Visual Question and Feedback to Support Video-Based Surgery Learning.,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Writer-Defined AI Personas for On-Demand Feedback Generation.,0,1,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+AngleKindling: Supporting Journalistic Angle Ideation with Large Language Models.,0,1,1,0,0,0,0,0,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Intelligent Support Engages Writers Through Relevant Cognitive Processes.,0,0,0,0,0,1,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+ChaCha: Leveraging Large Language Models to Prompt Children to Share Their Emotions about Personal Events.,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Generative Echo Chamber? Effect of LLM-Powered Search Systems on Diverse Information Seeking.,0,1,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Understanding Underground Incentivized Review Services.,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CoPrompt: Supporting Prompt Sharing and Referring in Collaborative Natural Language Programming.,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Multimodal Healthcare AI: Identifying and Designing Clinically Relevant Vision-Language Applications for Radiology.,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+How Beginning Programmers and Code LLMs (Mis)read Each Other.,0,0,0,0,0,0,0,1,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+EmoEden: Applying Generative Artificial Intelligence to Emotional Learning for Children with High-Function Autism.,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+AI-Driven Mediation Strategies for Audience Depolarisation in Online Debates.,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Co-Writing Screenplays and Theatre Scripts with Language Models: Evaluation by Industry Professionals.,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+Selenite: Scaffolding Online Sensemaking with Comprehensive Overviews Elicited from Large Language Models.,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Rambler: Supporting Writing With Speech via LLM-Assisted Gist Manipulation.,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+Teach AI How to Code: Using Large Language Models as Teachable Agents for Programming Education.,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"The Promise and Peril of ChatGPT in Higher Education: Opportunities, Challenges, and Design Implications.",0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Embodying the Algorithm: Exploring Relationships with Large Language Models Through Artistic Performance.,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Narrating Fitness: Leveraging Large Language Models for Reflective Fitness Tracker Data Interpretation.,0,0,0,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AI-Augmented Brainwriting: Investigating the use of LLMs in group ideation.,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Human I/O: Towards a Unified Approach to Detecting Situational Impairments.,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1
+VAL: Interactive Task Learning with GPT Dialog Parsing.,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+From Text to Self: Users' Perception of AIMC Tools on Interpersonal Communication and Self.,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+More than Model Documentation: Uncovering Teachers' Bespoke Information Needs for Informed Classroom Integration of ChatGPT.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Putting Things into Context: Generative AI-Enabled Context Personalization for Vocabulary Learning Improves Learning Motivation.,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+"""It's a Fair Game"", or Is It? Examining How Users Navigate Disclosure Risks and Benefits When Using LLM-Based Conversational Agents.",0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+EvalLM: Interactive Evaluation of Large Language Model Prompts on User-Defined Criteria.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AQuA: Automated Question-Answering in Software Tutorial Videos with Visual Anchors.,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"If in a Crowdsourced Data Annotation Pipeline, a GPT-4.",0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Understanding the Benefits and Challenges of Deploying Conversational AI Leveraging Large Language Models for Public Health Intervention.,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Harnessing Biomedical Literature to Calibrate Clinicians' Trust in AI Decision Support Systems.,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Towards AI-Driven Healthcare: Systematic Optimization, Linguistic Analysis, and Clinicians' Evaluation of Large Language Models for Smoking Cessation Interventions.",0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+BLIP: Facilitating the Exploration of Undesirable Consequences of Digital Technologies.,1,1,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Advancing Patient-Centered Shared Decision-Making with AI Systems for Older Adult Cancer Patients.,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+A Design Space for Intelligent and Interactive Writing Assistants.,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
