@@ -182,4 +182,4 @@ If you find this useful in your research, please consider citing this paper:
 
 ### Contact
 
-I'm looking forward to understanding this line of work beyond CHI. If you are interested in chatting or collaborating, please don't hesitate to contact: [Rock Yuren Pang](https://homes.cs.washington.edu/~ypang2/) \<ypang2@cs.washington.edu>
+I'm looking forward to understanding this line of work beyond CHI. If you have feedback for our paper, or are interested in chatting or collaborating, please don't hesitate to contact: [Rock Yuren Pang](https://homes.cs.washington.edu/~ypang2/) \<ypang2@cs.washington.edu>
