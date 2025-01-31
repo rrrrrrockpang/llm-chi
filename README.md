@@ -5,6 +5,10 @@ Welcome to the github repository for the paper "Understanding the LLM-ification 
 ## 🌀 Abstract
 Large language models (LLMs) have been positioned to revolutionize HCI, by reshaping not only the interfaces, design patterns, and sociotechnical systems that we study, but also the research practices we use. To-date, however, there has been little understanding of LLMs' uptake in HCI. We address this gap via a systematic literature review of 153 CHI papers from 2020-24 that engage with LLMs. We taxonomize: (1) domains where LLMs are applied; (2) roles of LLMs in HCI projects; (3) contribution types; and (4) acknowledged limitations and risks. We find LLM work in 10 diverse domains, primarily via empirical and artifact contributions. Authors use LLMs in five distinct roles, including as research tools or simulated users. Still, authors often raise validity and reproducibility concerns, and overwhelmingly study closed models. We outline opportunities to improve HCI research with and on LLMs, and provide guiding questions for researchers to consider the validity and appropriateness of LLM-related work.
 
+## 🏺 Taxonomy
+
+![The table of the main taxonomy that we included. Domains where LLM applications are developed, roles of LLMs in HCI projects, and acknowledged risks and limitations. Note that we did not include contribution types in this table. A paper can have multiple (sub-)codes.](./taxonomy.png)
+
 ## 🌐 Paper Collections
 
 Our analysis will evolve as we collect and analyze papers at CHI and more publication venues. If we miss your papers, please feel free to submit a pull request, open an issue, or ✉️ [email](mailto:ypang2@cs.washington.edu) us! We'd love to include your work and together we can make this collection more comprehensive. 
