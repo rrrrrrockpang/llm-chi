@@ -175,7 +175,7 @@ Our analysis will evolve as we collect and analyze papers at CHI and more public
 | [A Design Space for Intelligent and Interactive Writing Assistants.](https://dl.acm.org/doi/fullHtml/10.1145/3613904.3642697) | 2024 |
 
 ---
-### Citation
+## Citation
 
 If you find this useful in your research, please consider citing this paper:
 
@@ -189,6 +189,10 @@ If you find this useful in your research, please consider citing this paper:
 }
 ```
 
-### Contact
+## Acknowledgement
+
+This work wouldn't be possible without the research inspiration from my advisor at UW, Katharina Reinecke. We thank the anonymous reviewers for their valuable feedback. We also thank  Jenn Wortman Vaughan, Kevin Feng, Mohammed Alsobay, Sachita Nishal, Harsh Kumar, Shivani Kapania, Katelyn Mei, Enhao Zhang, Sandy Kaplan and many more friends and mentors at the University of Washington and Microsoft Research for their research inspirations, fun conversations, and helpful suggestions.
+
+## Contact
 
 I'm looking forward to understanding this line of work beyond CHI. If you have feedback for our paper, or are interested in chatting or collaborating, please don't hesitate to contact: [Rock Yuren Pang](https://homes.cs.washington.edu/~ypang2/) \<ypang2@cs.washington.edu>
