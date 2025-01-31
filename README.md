@@ -7,7 +7,12 @@ Large language models (LLMs) have been positioned to revolutionize HCI, by resha
 
 ## 🏺 Taxonomy
 
-![The table of the main taxonomy that we included. Domains where LLM applications are developed, roles of LLMs in HCI projects, and acknowledged risks and limitations. Note that we did not include contribution types in this table. A paper can have multiple (sub-)codes.](./taxonomy.png)
+### 📋 Application Domains, LLM Roles, Limitations & Risks 📋
+
+![This refers to Table 1 in the paper. The table of the main taxonomy that we included. Domains where LLM applications are developed, roles of LLMs in HCI projects, and acknowledged risks and limitations. Note that we did not include contribution types in this table. A paper can have multiple (sub-)codes.](./images/taxonomy.png)
+
+### 🎭 LLM Roles throughout common HCI research stages 🎭
+![An overview of roles that LLMs can play throughout common HCI research stages. A flowchart that shows an overview of different roles that LLMs can play throughout common HCI research stages. The stages are Research Questions, Systems, Users, Analyses, Publication & Deployment. There are three colored arrows: the first is green, and it connects from left to right all the five stages. This denotes system-building studies. The second is an orange arrow that connects the Research Question, Users, Analyses, and Publication & Deployment. This indicates user studies without building systems. The third is a purple arrow that connects Research Questions, Analyses, and Publication & Deployment. This indicates data science studies.](./images/LLM-roles.png) 
 
 ## 🌐 Paper Collections
 
